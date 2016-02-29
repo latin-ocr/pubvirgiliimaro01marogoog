@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pubvirgiliimaro01marogoog_0112.png"; bbox 0 0 713 1069; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 110 127 662 851">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 110 127 662 851">
+     <span class='ocr_line' id='line_1_1' title="bbox 110 127 662 851; baseline 0 218"><span class='ocrx_word' id='word_1_1' title='bbox 110 127 662 851; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 222 864 416 882">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 222 864 416 882">
+     <span class='ocr_line' id='line_1_2' title="bbox 222 864 416 882; baseline 0 -4"><span class='ocrx_word' id='word_1_2' title='bbox 222 864 272 882; x_wconf 72' lang='lat' dir='ltr'>QUE</span> <span class='ocrx_word' id='word_1_3' title='bbox 276 864 326 878; x_wconf 66' lang='lat' dir='ltr'>Rev</span> <span class='ocrx_word' id='word_1_4' title='bbox 331 864 342 878; x_wconf 76' lang='lat' dir='ltr'>S</span> <span class='ocrx_word' id='word_1_5' title='bbox 357 864 416 878; x_wconf 71' lang='lat' dir='ltr'>ILEX</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 144 913 511 946">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 144 913 511 946">
+     <span class='ocr_line' id='line_1_3' title="bbox 144 913 511 930; baseline -0.003 -4"><span class='ocrx_word' id='word_1_6' title='bbox 144 914 187 930; x_wconf 66' lang='lat' dir='ltr'>Saepe</span> <span class='ocrx_word' id='word_1_7' title='bbox 200 913 258 926; x_wconf 62' lang='lat' dir='ltr'>summ</span> <span class='ocrx_word' id='word_1_8' title='bbox 268 913 386 930; x_wconf 65' lang='lat' dir='ltr'>cav³‚p1³ed11n</span> <span class='ocrx_word' id='word_1_9' title='bbox 394 913 410 925; x_wconf 56' lang='grc' dir='ltr'>ιιι</span> <span class='ocrx_word' id='word_1_10' title='bbox 422 913 455 925; x_wconf 67' lang='lat' dir='ltr'>mee</span> <span class='ocrx_word' id='word_1_11' title='bbox 462 917 511 925; x_wconf 59' lang='lat' dir='ltr'>emm</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 435 937 482 946; baseline -0.021 0"><span class='ocrx_word' id='word_1_12' title='bbox 435 937 482 946; x_wconf 55' lang='lat' dir='ltr'>nm</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
