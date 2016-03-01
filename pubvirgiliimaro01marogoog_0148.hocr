@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pubvirgiliimaro01marogoog/pubvirgiliimaro01marogoog_0148.png"; bbox 0 0 713 1069; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 85 328 537 663">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 85 328 537 663">
+     <span class='ocr_line' id='line_1_1' title="bbox 85 328 537 663; baseline 0 406"><span class='ocrx_word' id='word_1_1' title='bbox 85 328 537 663; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 263 890 509 905">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 263 890 509 905">
+     <span class='ocr_line' id='line_1_2' title="bbox 263 890 509 905; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 263 890 370 905; x_wconf 67' lang='lat' dir='ltr'><strong>MlnosA</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 380 890 472 905; x_wconf 72' lang='lat' dir='ltr'>NILOTI</span> <span class='ocrx_word' id='word_1_4' title='bbox 476 891 489 905; x_wconf 85' lang='lat' dir='ltr'>C</span> <span class='ocrx_word' id='word_1_5' title='bbox 493 890 509 905; x_wconf 77' lang='grc' dir='ltr'><strong>Δ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 195 933 580 952">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 195 933 580 952">
+     <span class='ocr_line' id='line_1_3' title="bbox 195 933 580 952; baseline -0.005 -3"><span class='ocrx_word' id='word_1_6' title='bbox 195 936 227 949; x_wconf 68' lang='lat' dir='ltr'>vm·</span> <span class='ocrx_word' id='word_1_7' title='bbox 235 940 247 949; x_wconf 80' lang='grc' dir='ltr'><em>υ</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 254 936 322 952; x_wconf 61' lang='lat' dir='ltr'>mim-mi</span> <span class='ocrx_word' id='word_1_9' title='bbox 330 938 343 949; x_wconf 69' lang='lat' dir='ltr'>te·</span> <span class='ocrx_word' id='word_1_10' title='bbox 352 935 368 949; x_wconf 68' lang='lat' dir='ltr'>be</span> <span class='ocrx_word' id='word_1_11' title='bbox 376 935 398 949; x_wconf 62' lang='lat' dir='ltr'>²9oe</span> <span class='ocrx_word' id='word_1_12' title='bbox 404 935 474 949; x_wconf 68' lang='grc' dir='ltr'><em>Αωιυήω</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 484 933 580 948; x_wconf 63' lang='lat' dir='ltr'>ofEdmm</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
