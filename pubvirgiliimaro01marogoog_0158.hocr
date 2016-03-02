@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pubvirgiliimaro01marogoog/pubvirgiliimaro01marogoog_0158.png"; bbox 0 0 713 1069; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 131 118 632 843">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 131 118 632 843">
+     <span class='ocr_line' id='line_1_1' title="bbox 131 118 632 843; baseline 0 226"><span class='ocrx_word' id='word_1_1' title='bbox 131 118 632 843; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 200 854 511 870">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 200 854 511 870">
+     <span class='ocr_line' id='line_1_2' title="bbox 200 854 511 870; baseline 0.003 -1"><span class='ocrx_word' id='word_1_2' title='bbox 200 854 350 870; x_wconf 59' lang='lat' dir='ltr'><strong>mucan</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 354 856 365 870; x_wconf 74' lang='lat' dir='ltr'>S</span> <span class='ocrx_word' id='word_1_4' title='bbox 386 855 511 870; x_wconf 66' lang='lat' dir='ltr'>nlnsurus</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 169 903 532 937">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 169 903 532 937">
+     <span class='ocr_line' id='line_1_3' title="bbox 169 903 532 922; baseline 0.003 -6"><span class='ocrx_word' id='word_1_5' title='bbox 169 903 211 916; x_wconf 66' lang='lat' dir='ltr'>lma</span> <span class='ocrx_word' id='word_1_6' title='bbox 219 906 242 922; x_wconf 75' lang='lat' dir='ltr'>ego</span> <span class='ocrx_word' id='word_1_7' title='bbox 250 903 306 917; x_wconf 68' lang='lat' dir='ltr'>Sardois</span> <span class='ocrx_word' id='word_1_8' title='bbox 314 903 361 917; x_wconf 69' lang='lat' dir='ltr'>viden</span> <span class='ocrx_word' id='word_1_9' title='bbox 370 903 397 917; x_wconf 71' lang='lat' dir='ltr'>rnn&#39;</span> <span class='ocrx_word' id='word_1_10' title='bbox 407 903 467 917; x_wconf 63' lang='lat' dir='ltr'>mmor</span> <span class='ocrx_word' id='word_1_11' title='bbox 476 904 532 917; x_wconf 49' lang='lat' dir='ltr'>herbis</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 454 927 507 937; baseline 0 -1"><span class='ocrx_word' id='word_1_12' title='bbox 454 927 507 937; x_wconf 30' lang='lat' dir='ltr'>zzz-*1*</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
